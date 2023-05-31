@@ -1,4 +1,6 @@
 # JobTrack
+client folder: front end
+everything outside client folder: backend
 
 #### Track Your Job Search
 
