@@ -1,5 +1,6 @@
 # JobTrack
 client folder: front end
+   -The build folder in client was done after finishing everything, You can build it yourself so feel free to remove it.
 everything outside client folder: backend
 
 #### Track Your Job Search
